@@ -5,6 +5,7 @@ Bem vindo(a) ao meu perfil no GitHub!
 Tenho 21 anos e estou no meu terceiro ano de graduação em Engenharia da Computação pela UNICAMP(Universidade Estadual de Campinas).
 No momento estou fazendo uma Iniciação Científica pela universidade na área de Banco de Dados e Inteligência Artificial.
 Tenho experiência com Python, C, Java e C++.
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <!--
 **Palaciolol/Palaciolol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
