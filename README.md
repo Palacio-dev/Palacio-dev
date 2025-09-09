@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-Olá, me chamo Lucas Palacio
+Olá, me chamo Lucas Palacio 
 Bem vindo(a) ao meu perfil no GitHub!
 
-Tenho 21 anos e estou no meu terceiro ano de graduação em Engenharia da Computação pela UNICAMP(Universidade Estadual de Campinas).
+Tenho 22 anos e estou no meu terceiro ano de graduação em Engenharia da Computação pela UNICAMP(Universidade Estadual de Campinas).
 
-Atualmente, participo de um projeto de Iniciação Científica na área de Banco de Dados e Inteligência Artificial.
+Atualmente, participo de um projeto de Iniciação Científica que tem como tema Engenharia de Prompt para Engenharia de Dados visando Data Analytics ,ele busca explorar como Modelos de Linguagem de Grande Escala (LLMs) e técnicas de engenharia de prompt podem ser aplicados para automatizar a desnormalização de bancos de dados relacionais e a criação de pipelines de ETL (Extração, Transformação e Carga). 
+
 
 Tenho experiência com Python, C, Java e C++.
 
@@ -34,12 +35,19 @@ Tenho experiência com Python, C, Java e C++.
 
 --- 
 
+
+
+
+<!--
 ## 📊 Estatísticas GitHub
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palacio-dev&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palacio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palacio-dev&layout=compact&theme=dracula&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palacio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
+-->
+
+
 
 
           
