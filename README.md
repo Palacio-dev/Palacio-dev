@@ -3,7 +3,7 @@
 Olá, me chamo Lucas Palacio 
 Bem vindo(a) ao meu perfil no GitHub!
 
-Tenho 22 anos e estou no meu terceiro ano de graduação em Engenharia da Computação pela UNICAMP(Universidade Estadual de Campinas).
+Tenho 22 anos e estou no meu quarto ano de graduação em Engenharia da Computação pela UNICAMP(Universidade Estadual de Campinas).
 
 Atualmente, participo de um projeto de Iniciação Científica que tem como tema Engenharia de Prompt para Engenharia de Dados visando Data Analytics ,ele busca explorar como Modelos de Linguagem de Grande Escala (LLMs) e técnicas de engenharia de prompt podem ser aplicados para automatizar a desnormalização de bancos de dados relacionais e a criação de pipelines de ETL (Extração, Transformação e Carga). 
 
