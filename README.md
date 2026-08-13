@@ -1,26 +1,13 @@
 ## Hi there 👋
 
-Olá, me chamo Lucas Palacio 
-Bem vindo(a) ao meu perfil no GitHub!
+My name is Lucas Palacio, I am a Data Engineering and programming enthusiast. I consider myself a disciplined and pragmatic person, always seeking personal development and continuous learning. I believe that consistent progress, even if small, is powerful — that's why my philosophy is to become 1% better every day.  
 
-Tenho 23 anos e estou no meu quarto ano de graduação em Engenharia da Computação pela UNICAMP(Universidade Estadual de Campinas).
-
-Atualmente, participo de um projeto de Iniciação Científica que tem como tema Engenharia de Prompt para Engenharia de Dados visando Data Analytics ,ele busca explorar como Modelos de Linguagem de Grande Escala (LLMs) e técnicas de engenharia de prompt podem ser aplicados para automatizar a desnormalização de bancos de dados relacionais e a criação de pipelines de ETL (Extração, Transformação e Carga). 
-
-
-Tenho experiência com Python, C, Java e C++.
+I'm 23 years old and I'm in my fourth year of the Computer Engineering program at UNICAMP (Universidade Estadual de Campinas / State University of Campinas).
+I'm currently taking part in an undergraduate research project focused on Prompt Engineering for Data Engineering aimed at Data Analytics, which explores how Large Language Models (LLMs) and prompt engineering techniques can be applied to automate the denormalization of relational databases and the creation of ETL (Extract, Transform, Load) pipelines.
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40"/>
-</div>
+Pined below are my 3 biggest projects so far. There you can see a more comprehensive explanation of them and the technologies used and concepts learned.
 
 ---
 
@@ -34,18 +21,6 @@ Tenho experiência com Python, C, Java e C++.
 </a>
 
 --- 
-
-
-
-
-<!--
-## 📊 Estatísticas GitHub
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palacio-dev&layout=compact&theme=dracula&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Palacio-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-</div>
--->
 
 
 
