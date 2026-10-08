@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-My name is Lucas Palacio, I am a Data Engineering and programming enthusiast. I consider myself a disciplined and pragmatic person, always seeking personal development and continuous learning. I believe that consistent progress, even if small, is powerful — that's why my philosophy is to become 1% better every day.  
+My name is Lucas Palacio, an enthusiast of data engineering, data science, AI, and programming. I consider myself a disciplined and pragmatic person, always striving for personal growth and continuous learning. I believe that consistent progress, even if small, is powerful, therefore, I always aim to maintain consistency in my activities, whether they relate to academic pursuits or personal goals.
 
 I'm 23 years old and I'm in my fourth year of the Computer Engineering program at UNICAMP (Universidade Estadual de Campinas / State University of Campinas).
-I'm currently taking part in an undergraduate research project focused on Prompt Engineering for Data Engineering aimed at Data Analytics, which explores how Large Language Models (LLMs) and prompt engineering techniques can be applied to automate the denormalization of relational databases and the creation of ETL (Extract, Transform, Load) pipelines.
+I'm took part in an undergraduate research project focused on Prompt Engineering for Data Engineering aimed at Data Analytics, which explores how Large Language Models (LLMs) and prompt engineering techniques can be applied to automate the denormalization of relational databases and the creation of ETL (Extract, Transform, Load) pipelines Apache Airflow.
 
 ---
 
-Pined below are my 3 biggest projects so far. There you can see a more comprehensive explanation of them and the technologies used and concepts learned.
+Pined below are my 4 biggest projects so far. There you can see a more comprehensive explanation of them and the technologies used and concepts learned.
 
 ---
 
