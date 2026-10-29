@@ -7,7 +7,7 @@ I'm took part in an undergraduate research project focused on Prompt Engineering
 
 ---
 
-Pined below are my 4 biggest projects so far. There you can see a more comprehensive explanation of them and the technologies used and concepts learned.
+Pined below are my 5 biggest projects so far. There you can see a more comprehensive explanation of them and the technologies used and concepts learned.
 
 ---
 
